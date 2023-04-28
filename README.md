@@ -1,4 +1,4 @@
-# Elastic Search Example
+# Elasticsearch Example
 
 ## Useful Commands
 
