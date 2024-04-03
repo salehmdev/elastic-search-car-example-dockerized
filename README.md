@@ -27,7 +27,7 @@ Cluster URL: <https://es01:9200>
 
 If UNAUTHORIZED, use basic Auth: <https://elastic:elastic@es01:9200>
 
-## Fill Sample Car Data
+## Fill Sample Data
 
 - Option 1: Use the Kibana data import tool (FASTER, if possible)
 
