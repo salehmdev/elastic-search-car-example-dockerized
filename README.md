@@ -1,4 +1,4 @@
-# Elastic Search Example
+# Elasticsearch Example
 
 ## Getting Started
 
